@@ -1,0 +1,6 @@
+01/08/2023 22:31:01-https://www.alura.com.br- Online: true
+01/08/2023 22:31:01-https://www.uol.com.br- Online: true
+01/08/2023 22:31:04-https://www.alura.com.br- Online: true
+01/08/2023 22:31:05-https://www.uol.com.br- Online: true
+01/08/2023 22:31:08-https://www.alura.com.br- Online: true
+01/08/2023 22:31:08-https://www.uol.com.br- Online: true
